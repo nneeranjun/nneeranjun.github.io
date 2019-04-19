@@ -1,0 +1,32 @@
+.mockup-bg {
+    background-color: #42dff4;
+   
+}
+.mockup {
+    
+}
+.header-bg {
+    font-family: 'Nunito', sans-serif; 
+}
+.mockup-description{
+    margin-top: -75px;
+    font-family: 'Nunito', sans-serif; 
+    
+}
+.message {
+    font-family: 'Lato', sans-serif;
+}
+
+.me-img {
+    border-radius: 100%;
+    
+}
+.me {
+    background-color: #56B48C;
+    font-family: 'Nunito', sans-serif; 
+    
+}
+.footer {
+    font-family: 'Lato', sans-serif;
+    background-color: #F4D4D4;
+}
